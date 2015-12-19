@@ -1,28 +1,40 @@
-name: Brandon
 favicon: null
-layout_spectrum: 0.2438489042688161
-typography_spectrum: 0.8817004119046032
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Brandon
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.4055649
+  brandStrength: 0.3466496712062508
+  lightness: 0.5168634
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.3466496712062508
-  lightness: 0.5661251626443118
-  saturation: 0.7404093204531819
-  rhythmicContrast: 0.5276372919324785
-purpose: []
+  rhythmicContrast: 0.5758854
+typography_spectrum: 0.8946037
+layout_spectrum: 0.1677909
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
