@@ -1,9 +1,7 @@
-favicon: null
 name: Brandon
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.1677909
+typography_spectrum: 0.8946037
 collections:
   - index:
       path: /
@@ -16,25 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: Brandon Bohling
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4055649
-  brandStrength: 0.3466496712062508
-  lightness: 0.5168634
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+  brandStrength: 0.3466496712062508
+  lightness: 0.5168634
+  saturation: 0.4055649
   rhythmicContrast: 0.5758854
-typography_spectrum: 0.8946037
-layout_spectrum: 0.1677909
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose: []
