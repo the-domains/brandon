@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T03:36:45.722Z'
-dateModified: '2016-01-05T03:36:34.767Z'
+datePublished: '2016-01-12T00:07:11.313Z'
+dateModified: '2016-01-12T00:07:04.956Z'
 author: []
 title: Find Your Life Purpose
+sourcePath: _posts/2016-01-05-find-your-life-purpose.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2016-01-05-find-your-life-purpose.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
@@ -27,6 +27,6 @@ _type: Article
 
 > What shit sandwich do you want to eat? Because we all get served one eventually.
 
-This [excellent post][0] written by Mark Manson in 2014 seems like a worthwhile read at this time of year.
+This [excellent post][0] written by Mark Manson in 2014 seems like a worthwhile read at this time of year. 
 
 [0]: http://markmanson.net/life-purpose
